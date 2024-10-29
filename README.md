@@ -93,4 +93,4 @@ Just type in http://127.0.0.1:8000 into your browser. If it doesn't work, then t
 ==============================
 
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://i.gyazo.com/9da5e3a7ff2beb0ca836b6579f8d9c97.png))
+![Alt text](https://i.gyazo.com/9da5e3a7ff2beb0ca836b6579f8d9c97.png?raw=true "Program")
