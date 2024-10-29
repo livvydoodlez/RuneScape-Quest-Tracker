@@ -86,3 +86,11 @@ it will open your browser at the page 127.0.0.1:8000
 If it doesn't,
 
 Just type in http://127.0.0.1:8000 into your browser. If it doesn't work, then the program didn't load. ¯\_(ツ)_/¯
+
+
+
+
+==============================
+
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://i.gyazo.com/9da5e3a7ff2beb0ca836b6579f8d9c97.png))
